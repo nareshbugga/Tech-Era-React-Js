@@ -1,0 +1,21 @@
+.course-image {
+  width: 80px;
+  height: 80px;
+}
+.course-card-heading {
+  color: #1e293b;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin-left: 10px;
+}
+.course-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 100px;
+  margin-right: 80px;
+  margin-left: 20px;
+}
+.nav-link {
+  text-decoration: none;
+}
